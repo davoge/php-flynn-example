@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx /app/htdocs/
+web: vendor/bin/heroku-php-nginx /htdocs/
